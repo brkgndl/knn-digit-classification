@@ -1,6 +1,7 @@
-# Digit Recognizer with scikit-learn
+# Digit Recognizer with scikit-learn - First experience
 
 This project is a very simple KNN classifier that recognizes handwritten digits using the scikit-learn library.
+Also, this is my first experience working with KNN algorithm. This project helped me understand the KNN better and gave me motivation to learn more about machine learning.Thank you.
 
 ## Features
 
@@ -12,5 +13,7 @@ This project is a very simple KNN classifier that recognizes handwritten digits 
 ## Setup
 
 To install the needed libraries, run:
+```
+pip install -r requirements.txt
+```
 
-pip install -r requirements.txt# knn-digit-classification
